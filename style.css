@@ -1,0 +1,33 @@
+body {
+    background-color: indianred;
+    background-image: linear-gradient(orange, white, green);
+}
+
+p {
+    font-size: 50px;
+    color: black;
+}
+
+h1 {
+    color: tomato;
+}
+
+h2 {
+    color: powderblue;
+}
+
+h3 {
+    color: brown;
+}
+
+h4 {
+    color: aqua;
+}
+
+h5 {
+    color: violet;
+}
+
+h6 {
+    color: crimson;
+}
